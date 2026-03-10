@@ -2,7 +2,7 @@
 
 This repository contains the **official implementation** of the algorithm presented in our paper:
 
-> Huixiang Zhen, Xiaotong Li, Wenyin Gong, and Xiangyun Hu. "Composite Indicator-Guided Infilling Sampling for Expensive Multi-Objective Optimization", 2025.
+> Huixiang Zhen, Xiaotong Li, Wenyin Gong, and Xiangyun Hu. "Composite Indicator-Guided Infilling Sampling for Expensive Multi-Objective Optimization", Swarm and Evolutionary Computation, 2026, 101: 102312. [doi: 10.1016/j.swevo.2026.102312](https://doi.org/10.1016/j.swevo.2026.102312)
 
 ## Repository Structure
 - `/CI-EMO` - The main MATLAB source code for our CI-EMO algorithm.
